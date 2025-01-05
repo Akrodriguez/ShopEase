@@ -12,3 +12,7 @@ It shows number of accounts logged in.
 For frontend- HTML, CSS, Javascript
 <br>
 For backend- PHP, MYSQL
+<br>
+<h1>NOTE!!</h1>
+<br>
+Some html is included in the php files only so don't get confuse as to where is the html file. Thanks!!
